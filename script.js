@@ -100,7 +100,7 @@ const projects = [
     grad: "linear-gradient(135deg,#D9FF3D,#5EE7FF)",
     desc: "Second-gen personal portfolio with refined UI, project showcase, downloadable resume and mobile-optimized layout.",
     tags: ["HTML", "CSS", "JS"],
-    live: null,
+    live: "https://tejavathganesh-26.github.io/InternSpark_Portfolio/",
     repo: "https://github.com/tejavathganesh-26/InternSpark_Portfolio",
   },
 ];
